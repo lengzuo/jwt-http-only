@@ -10,6 +10,10 @@
     "@types/node": "^16.11.26",
     "@types/react": "^17.0.39",
     "@types/react-dom": "^17.0.13",
+<<<<<<< HEAD
+=======
+    "antd": "^4.18.9",
+>>>>>>> 8f1b52c (Initial commit)
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "5.0.0",
