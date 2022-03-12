@@ -22,3 +22,5 @@ fe/yarn-error.log*
 
 backend/.idea
 backend/vendor
+
+.idea
